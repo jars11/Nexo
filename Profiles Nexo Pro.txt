@@ -1,0 +1,11 @@
+Profile 1: Agustin
+Stablecoin: USDT
+Coins: BTC
+Next movement: sell
+Amount coins: 0.00053181
+Amount stablecoin: 1.8232051796699977
+Add stablecoin: 0.0
+Last buy value: 114682.0
+Max sell value: 113681.46144
+Fluctuation tolerance: 0.35%
+Base profit per move: 0.0%
